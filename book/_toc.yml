@@ -2,7 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Probability & Statistics Programming Guide
+  - caption: Subjects
     chapters:
     - file: overview.md
     - file: simulation/overview.md
@@ -10,6 +10,8 @@ parts:
       - file: simulation/text_and_code.ipynb
       - file: simulation/file_to_be_added_to_toc.md
       - file: simulation/branchtest.md
+  -caption: Miscallaneous
+    chapters:
     - file: references.md
     #- file: changelog.md
     - file: credits.md
