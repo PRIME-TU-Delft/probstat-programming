@@ -5,7 +5,7 @@ parts:
   - caption: Probability & Statistics Programming Guide
     chapters:
     - file: overview.md
-    - file: simulation/intro.md
+    - file: simulation/overview.md
       sections:
       - file: simulation/text_and_code.ipynb
       - file: simulation/file_to_be_added_to_toc.md
