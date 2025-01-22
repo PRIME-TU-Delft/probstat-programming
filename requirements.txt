@@ -3,7 +3,9 @@ teachbooks # depends on jupyter-book
 jupyterbook-patches
 sphinx-image-inverter
 download_link_replacer
+sphinx_proof
 sphinx-exercise
+teachbooks_sphinx_grasple
 teachbooks-sphinx-tippy
 sphinx-tudelft-theme
 
