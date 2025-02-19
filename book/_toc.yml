@@ -4,7 +4,6 @@ root: intro.md
 parts:
   - caption: Subjects
     chapters:
-    - file: overview.md
     - file: simulation/overview.md
       sections:
       - file: simulation/text_and_code.ipynb
