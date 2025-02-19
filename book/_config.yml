@@ -37,6 +37,7 @@ sphinx:
       chtml: {
         mtextInheritFont: true # To typeset text within math prettier
       }
+    tud_sticky_logo: false
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
