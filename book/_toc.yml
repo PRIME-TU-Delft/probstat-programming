@@ -4,14 +4,11 @@ root: intro.md
 parts:
   - caption: Subjects
     chapters:
-    - file: overview.md
     - file: simulation/overview.md
       sections:
       - file: simulation/text_and_code.ipynb
-      - file: simulation/file_to_be_added_to_toc.md
-      - file: simulation/branchtest.md
   - caption: Miscallaneous
     chapters:
     - file: references.md
     #- file: changelog.md
-    - file: credits.md
+    #- file: credits.md
