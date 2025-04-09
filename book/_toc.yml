@@ -7,6 +7,7 @@ parts:
     - file: simulation/overview.md
       sections:
       - file: simulation/text_and_code.ipynb
+      - file: simulation/par_to_exp.ipynb
   - caption: Miscallaneous
     chapters:
     - file: references.md
