@@ -6,8 +6,9 @@ parts:
     chapters:
     - file: simulation/overview.md
       sections:
-      - file: simulation/Simulating_Dice.ipynb
-      - file: simulation/Birth_Month_Simulation.ipynb 
+      - file: simulation/simulating_dice.ipynb
+      - file: simulation/birth_month_simulation.ipynb
+      - file: simulation/simulating_other_variables.ipynb
   - caption: Miscallaneous
     chapters:
     - file: references.md
