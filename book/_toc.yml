@@ -2,13 +2,13 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Subjects
+  - caption: Contents
     chapters:
     - file: simulation/overview.md
       sections:
       - file: simulation/Simulating_Dice.ipynb
       - file: simulation/Birth_Month_Simulation.ipynb 
-  - caption: Miscallaneous
+  - caption: Miscellaneous
     chapters:
     - file: references.md
     #- file: changelog.md
