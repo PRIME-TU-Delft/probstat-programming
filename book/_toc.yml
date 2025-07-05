@@ -11,6 +11,7 @@ parts:
     - file: estimation/overview.md
       sections:
       - file: estimation/Birth_Month_Estimation.ipynb
+      - file: estimation/911_Calls_Estimation.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
