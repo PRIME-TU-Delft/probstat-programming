@@ -13,6 +13,8 @@ parts:
       - file: estimation/Birth_Month_Estimation.ipynb
       - file: estimation/911_Calls_Estimation.ipynb
       - file: estimation/Maximum_Likelihood_Estimate.ipynb
+      - file: estimation/Bias.ipynb
+      - file: estimation/Mean_Squared_Error.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
