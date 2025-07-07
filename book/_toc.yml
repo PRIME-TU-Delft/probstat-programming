@@ -15,6 +15,7 @@ parts:
       - file: estimation/Maximum_Likelihood_Estimate.ipynb
       - file: estimation/Bias.ipynb
       - file: estimation/Mean_Squared_Error.ipynb
+      - file: estimation/Confidence_Intervals.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
