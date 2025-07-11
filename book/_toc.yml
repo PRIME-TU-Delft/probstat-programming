@@ -16,6 +16,10 @@ parts:
       - file: estimation/Bias.ipynb
       - file: estimation/Mean_Squared_Error.ipynb
       - file: estimation/Confidence_Intervals.ipynb
+      - file: estimation/avg_sd_correlation.ipynb
+      - file: estimation/ecdf_kde.ipynb
+      - file: estimation/misc/Central_Limit_Theorem.ipynb
+      - file: estimation/misc/Law_of_Large_Nums.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
