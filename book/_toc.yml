@@ -18,8 +18,10 @@ parts:
       - file: estimation/Confidence_Intervals.ipynb
       - file: estimation/avg_sd_correlation.ipynb
       - file: estimation/ecdf_kde.ipynb
-      - file: estimation/misc/Central_Limit_Theorem.ipynb
-      - file: estimation/misc/Law_Of_Large_Nums.ipynb
+      - file: estimation/misc/overview.md
+        sections:
+        - file: estimation/misc/Central_Limit_Theorem.ipynb
+        - file: estimation/misc/Law_Of_Large_Nums.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
