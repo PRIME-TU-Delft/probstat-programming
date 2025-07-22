@@ -10,6 +10,8 @@ parts:
       - file: simulation/Birth_Month_Simulation.ipynb 
   - caption: Miscellaneous
     chapters:
+    - file: miscellaneous/Central_Limit_Theorem.ipynb
+    - file: miscellaneous/Law_of_Large_Nums.ipynb
     - file: references.md
     #- file: changelog.md
     #- file: credits.md
