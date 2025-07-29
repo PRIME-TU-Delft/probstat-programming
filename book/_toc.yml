@@ -7,6 +7,8 @@ parts:
     - file: simulation/overview.md
       sections:
       - file: simulation/text_and_code.ipynb
+      - file: simulation/Simulating_Dice.ipynb
+      - file: simulation/Birth_Month_Simulation.ipynb 
   - caption: Using Distributions
     chapters:
     - file: using_distributions/overview.md
