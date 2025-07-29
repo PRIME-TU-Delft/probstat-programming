@@ -8,6 +8,8 @@ parts:
       sections:
       - file: simulation/text_and_code.ipynb
       - file: simulation/par_to_exp.ipynb
+      - file: simulation/Simulating_Dice.ipynb
+      - file: simulation/Birth_Month_Simulation.ipynb 
   - caption: Miscallaneous
     chapters:
     - file: references.md
