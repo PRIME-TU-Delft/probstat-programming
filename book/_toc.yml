@@ -9,6 +9,8 @@ parts:
       - file: simulation/Simulating_Dice.ipynb
       - file: simulation/Birth_Month_Simulation.ipynb 
     - file: hypothesis_testing/overview.md 
+      sections: 
+      - file: hypothesis_testing/sample_size.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
