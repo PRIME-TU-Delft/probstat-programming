@@ -9,6 +9,8 @@ parts:
       - file: simulation/Simulating_Dice.ipynb
       - file: simulation/Birth_Month_Simulation.ipynb
     - file: regression/overview.md
+      sections:
+      - file: regression/dependent_explanatory_variables.ipynb
   - caption: Miscellaneous
     chapters:
     - file: references.md
