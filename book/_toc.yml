@@ -2,13 +2,23 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Subjects
+  - caption: Contents
     chapters:
     - file: simulation/overview.md
       sections:
       - file: simulation/Simulating_Dice.ipynb
       - file: simulation/Birth_Month_Simulation.ipynb 
-  - caption: Miscallaneous
+    - file: estimation/overview.md
+      sections:
+      - file: estimation/Birth_Month_Estimation.ipynb
+      - file: estimation/911_Calls_Estimation.ipynb
+      - file: estimation/Maximum_Likelihood_Estimate.ipynb
+      - file: estimation/Bias.ipynb
+      - file: estimation/Mean_Squared_Error.ipynb
+      - file: estimation/Confidence_Intervals.ipynb
+      - file: estimation/avg_sd_correlation.ipynb
+      - file: estimation/ecdf_kde.ipynb
+  - caption: Miscellaneous
     chapters:
     - file: references.md
     #- file: changelog.md
