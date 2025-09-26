@@ -1,7 +1,7 @@
 # Simulation
-<!-- Explain a bit what simulation is/how it relates to the Prob Stat course -->
+<!-- TODO: Give an intro to the chapter, explain a bit what simulation is/how it relates to the Prob Stat course -->
 
 
 
 ## Chapter Overview
-<!-- Explain what is specifically contained in this chapter -->
+<!-- TODO: Explain subsections contained in this chapter -->
