@@ -50,6 +50,7 @@ sphinx:
     - sphinx_exercise
     - teachbooks_sphinx_grasple
     - sphinx_tudelft_theme
+    - sphinxcontrib.bibtex
 
 bibtex_bibfiles: 
   - references.bib
